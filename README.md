@@ -1,4 +1,4 @@
-# Hi I'm Maria:
+# 💫 Hi I'm Maria:
 Currently working on the backend of a project using node.js <br>I'm looking to collaborate on chatbot integration<br>
 
 
